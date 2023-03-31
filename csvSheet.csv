@@ -1,3 +1,4 @@
-﻿name.firstName,name.lastName,age,address.line1,address.line2,address.city.pincode,address.state,gender
-Dhiraj,Thakare,25,vaishali nagar,jaipur,302021,rajasthan,Male
-Mayur,Thakare,26,Navadne,sakri,424306,maharashtra,Male
+﻿Title,Name.firstName,Name.lastName,Age,Address.line1,Address.line2,Address.City.Pincode,Address.State,Gender
+Mr,Dhiraj,Thakare,25,vaishali nagar,jaipur,302021,rajasthan,Male
+Mr,Mayur,Thakare,26,nawadane,sakri,424306,maharashtra,Male
+Miss,shraddha,Kapoor,28,pune,mumbai,400022,maharashtra,female
